@@ -9,6 +9,7 @@
         <module name="java-basic" />
         <module name="wangyi" />
         <module name="design-patterns" />
+        <module name="helloworld" />
         <module name="my-parent" />
       </profile>
     </annotationProcessing>
